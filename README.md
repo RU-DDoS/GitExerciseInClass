@@ -1,3 +1,4 @@
 # GitExerciseInClass
 Git Exercise In Class :)
-Ármann smellar :)
+Armann smellar :)
+Andri er bestur
